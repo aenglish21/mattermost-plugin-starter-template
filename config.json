@@ -1,0 +1,9 @@
+{
+    "tenant_id": "YOUR_TENANT_ID",
+    "graph_client_id": "YOUR_GRAPH_CLIENT_ID",
+    "graph_secret": "YOUR_GRAPH_CLIENT_SECRET",
+    "mapping": {
+        "Developers": "TEAM_ID_FOR_DEVELOPERS",
+        "Sales": "TEAM_ID_FOR_SALES"
+    }
+}
